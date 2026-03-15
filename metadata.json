@@ -1,0 +1,5 @@
+{
+  "name": "Cybersecurity IAM Lab",
+  "description": "A mini project demonstrating Identity and Access Management (IAM) security with account lockout and password hashing.",
+  "requestFramePermissions": []
+}
